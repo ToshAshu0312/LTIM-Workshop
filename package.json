@@ -1,0 +1,8 @@
+{
+  "name": "ghas-playground",
+  "version": "0.0.1",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
